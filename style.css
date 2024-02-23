@@ -1,17 +1,28 @@
 .logo{
     background-color: #1F2937;
-    text-transform: 18px #E5E7EB;
+    color: #E5E7EB;
     padding: 5px 25px;
 }
+
 .Bold{
-    text-transform: 48px extra-bold #F9FAF8;
+    font-weight: bold;
+    font-size: 48px;
+    color: #F9FAF8;
 }
+
 .header{
-    text-transform: 24px #F9FAF8;
+    font-size: 24px;
+    color: #F9FAF8;
     margin-bottom: 20px;
-    
 }
+
 .header-links{
     align-content: end;
     align-items: stretch;
+}
+.batmansafari{
+    width: 10%;
+}
+.imagewtext{
+    c
 }
